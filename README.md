@@ -1,4 +1,4 @@
-## Ashish Pandey
+## Ashishkumar Pandey
 
 Backend engineer and solutions architect, Mumbai. Nearly nine years building software, most of the recent ones on AWS serverless.
 
